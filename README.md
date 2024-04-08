@@ -187,7 +187,33 @@ Colunas: Ano
 Valores: Quantidade de empréstimos
 Total: Acrescente uma linha e uma coluna de total a tabela
 
-##
 Aviso: O código do dia 6 possui a importação da biblioteca StringIO, ela foi importada e usada para prevenir um erro futuro.
 O desafio em sí não pedia o uso dela.
 ##
+
+## Dia 07
+A diretoria da biblioteca está montando um plano de ação de marketing focado nos alunos da pós-graduação. Para isso, precisará analisar a diferença percentual de empréstimos realizados nos últimos anos (2017, 2018, 2019) para cada curso.
+
+Devido à pandemia do COVID-19, ela não poderá utilizar os dados de 2020 e 2021. Entretanto, seu colega de equipe já realizou uma análise de previsão de empréstimos de 2022 e a disponibilizou para que você também possa realizar o comparativo entre 2019-2022.
+
+Você precisará criar uma tabela com as diferenças percentuais de empréstimos entre 2017-2018, 2018-2019, 2019-2022.
+
+Porém, essa análise será disponibilizada em conjunto com outros dados, através de uma página da web, e a equipe de Front-end te solicitou que enviassem para eles o HTML da tabela.
+
+Eles precisam que ela tenha as seguintes características:
+
+
+Não contenha numeração de índice;
+Os nomes dos cursos tenham apenas a primeira letra maiúscula;
+Os números percentuais estejam indicados pelo símbolo “%”;
+Cor dos números: Positivos = Verde; Negativos = Vermelho
+
+Aviso: O HTML feito foi um exercício opcional, e o
+padrão(cores, tamanhos, alinhamentos, etc) da tabela 
+estava pronto.
+
+##
+
+## Aviso Legal
+Este desafio foi desenvolvido apenas para fins de aprendizado. Os dados foram selecionados pensando nisso,
+então eles não devem ser usados para análises comerciais ou para outros fins sem a devida verificação e permissão.
